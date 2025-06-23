@@ -54,7 +54,7 @@ O objetivo do desafio foi aplicar os conhecimentos de **manipulação e transfor
 
 ## 📈 Resultado Final
 
-> O cliente que mais realizou compras durante o período analisado foi **[Diego Armandiu]**, com um total de **R$ [112.495,00]** gastos em 5 dias.
+> O cliente que mais realizou compras durante o período analisado foi **Diego Armandiu**, com um total de **R$ 112.495,00** gastos em 5 dias.
 
 *(O nome e o valor serão exibidos diretamente no notebook com base nos dados reais.)*
 
